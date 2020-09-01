@@ -1,0 +1,589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="http://file.mihanblog.com//public/user_data/user_files/269/805196/ghaleb/favicon.ico.png"/>
+    <title>سیاره لینوکس فارسی</title>
+        <link rel="stylesheet" media="screen" type="text/css" href="custom/style/default.css" title="Default" />
+
+    <link rel="alternate" type="application/atom+xml" title="ATOM" href="?type=atom10" />
+</head>
+
+<body>
+<div class="loader-container" id="page-loader"> 
+	<div class="loading-wrapper"> 
+		<div class="loader-animation" id="loader-animation"> 
+			<span class="loader"> 
+				<span class="loader-inner"></span> 
+			</span> 
+		</div><!-- loader-animation -->
+			<div class="loader-name" id="loader-name"> سیاره لینوکس فارسی </div><!-- loader-name -->
+	</div><!-- loading-wrapper -->
+</div><!-- loader-container -->
+
+    <script type="text/javascript">
+    document.body.className += 'js';
+    </script>
+    <div id="page">
+                <div id="header">
+            <div id="top"><div id="header-links"><h1 style="margin: -2px 0 10px;"><a href="./index.php"><i class="fa fa-globe" aria-hidden="true"></i>  سیاره لینوکس فارسی </a><a href="http://linuxvaman.ir/post/327">ثبت فید</a> </h1></div>
+		<div id="box"><ul id="menu"> <li id="aparat"><a target="_blank" title="آپارات" rel="nofollow" href="http://aparat.com/linuxvaman"></a></li><li id="instagram"><a target="_blank" title="اینستاگرام" href="http://instagram.com/linuxvaman"></a></li><li id="telegram"><a target="_blank" title="تلگرام" href="http://telegram.me/linuxvaman"></a></li><li id="planet"><a target="_blank" title="سیاره لینوکس" href="http://planet.linuxvaman.ir"></a></li><li id="cooperation"><a target="_blank" title="همکاری با ما" href="http://linuxvaman.ir/post/259"></a></li><li id="rss"><a target="_blank" title="rss" href="http://rss.linuxvaman.ir/linuxvaman"></a></li><li id="twitter"><a target="_blank" title="twitter" href="http://twitter.com/linuxvaman"></a></li></ul></div></div>
+
+        </div>
+        
+        <div id="content">
+                                                                    <div class="article amirsamimi-ir">
+                        <h2 class="article-title">
+                            <a href="http://amirsamimi.ir/wine_appearance/" title="لینک به مطلب اصلی">چگونه ظاهر برنامه‌هایی که با Wine اجرا میشوند را بهبود ببخشیم؟</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: علیرضا امیرصمیمی                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598901507" class="date">31/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="http://amirsamimi.ir" class="source">وبسایت شخصی علیرضا امیرصمیمی</a>                        </p>
+                        <div class="article-content">
+                            در این نوشتار شیوه بهبود بخشیدن ظاهر برنامه‌هایی که با Wine اجرا میشوند را خواهید آموخت.                        </div>
+                    </div>
+                                                                            <div class="article fedorafans-com">
+                        <h2 class="article-title">
+                            <a href="https://fedorafans.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3%D8%AE%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF/" title="لینک به مطلب اصلی">دانلود نسخه های پیش از انتشار لینوکس فدورا ۳۳</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: hos7ein                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598708965" class="date">29/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="http://fedorafans.com" class="source">طرفداران فدورا</a>                        </p>
+                        <div class="article-content">
+                            <div style="margin-bottom:20px;"><img width="600" height="536" src="https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="yayyyy" loading="lazy" srcset="https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_.jpg 600w, https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_-300x268.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></div><p><a href="https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_.jpg"><img loading="lazy" class="aligncenter size-full wp-image-4294" src="https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_.jpg" alt="yayyyy" width="600" height="536" srcset="https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_.jpg 600w, https://fedorafans.com/wp-content/uploads/2015/06/yayyyy-fedorafans.com_-300x268.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>با توجه به <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/">برنامه زمانبندی انتشار نسخه ی Linux Fedora 33</a> قرار است تا نسخه ی بتا در تاریخ ۲۵/۰۶/۱۳۹۹ منتشر شود و پس از آن نسخه نهایی <a href="https://fedorafans.com/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3%DB%B3-%D8%A8%D8%A7-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D8%B6-btrfs/">فدورا ۳۳</a> قرار است در تاریخ ۲۹/۰۷/۱۳۹۹ منتشر شود.<span id="more-7071"></span></p>
+<p>اما قبل از انتشار نسخه ی بتا و نهایی، نسخه هایی با عنوان «پیش از انتشار» یا همان pre-release منتشر می شود و برای همگان در دسترس و قابل <a href="https://fedorafans.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3%D8%AE%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-linux-fedora-32/">دانلود</a> می باشند. هدف این نسخه ها آزمایش فدورا و گزارش مشکلات احتمالی قبل از انتشار نسخه ی بتا و نهایی می باشد.</p>
+<p>همانطور که می دانید فدورا دارای نسخه هایی با معماری، دسکتاپ و اهداف گوناگونی می باشد که بنا به سلیقه و نیاز خود می توانید نسخه ی مربوطه را <a href="https://fedorafans.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%81%D8%A7%DB%8C%D9%84-%D8%A7%D8%B2-%D8%AA%D9%88%D8%B1%D9%86%D8%AA-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-tixati/">دانلود</a> و استفاده کنید. جهت <a href="https://fedorafans.com/%D9%86%D8%B5%D8%A8-%D8%A2%D8%B3%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%85%D9%86%DB%8C%D8%AC%D8%B1-jdownloader-%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF/">دانلود</a> نسخه های پیش از انتشار (pre-release) از <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/">فدورا ۳۳</a> کافیست تا به لینک پایین مراجعه نمایید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://kojipkgs.fedoraproject.org/compose/branched/latest-Fedora-33/compose/</p>
+</blockquote>
+<p>جهت دیدن نتیجه ی آزمایش های<a href="https://fedorafans.com/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3%DB%B3-%D8%A8%D8%A7-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D8%B6-btrfs/"> فدورا ۳۳</a> و یا شرکت در این آزمایش ها می توانید به لینک پایین مراجعه کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://fedoraproject.org/wiki/Category:Fedora_33_Nightly_Test_Results</p>
+</blockquote>
+<p>&nbsp;</p><p>The post <a href="https://fedorafans.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%86%D8%B3%D8%AE%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF/" target="_blank">دانلود نسخه های پیش از انتشار لینوکس فدورا ۳۳</a> first appeared on <a href="https://fedorafans.com/" target="_blank">طرفداران فدورا</a>.</p>                        </div>
+                    </div>
+                                                                            <div class="article mehdi-wordpress-com">
+                        <h2 class="article-title">
+                            <a href="https://mehdi.wordpress.com/2020/08/29/%D9%86%D8%B5%D8%A8-vpn-%D8%A8%D8%B1-%D8%B1%D9%88%DB%8C-%D9%85%D9%88%D8%AF%D9%85-%D8%B1%D9%88%D8%AA%D8%B1/" title="لینک به مطلب اصلی">نصب VPN بر روی مودم/روتر</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: mFat                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598691399" class="date">29/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="https://mehdi.wordpress.com" class="source">وبلاگ مهدی</a>                        </p>
+                        <div class="article-content">
+                            <p class="has-text-align-right" style="text-align:right;">اگر روتر شما از VPN پشتیبانی کنه به راحتی می‌تونید کل ترافیک اینترنت خودتون ور بدون فیلتر کنید.</p>
+
+<p class="has-text-align-right" style="text-align:right;">روترها و مودم‌های موجود در بازار اکثرا یا از VPN پشتیبانی نمی‌کنن یا پشتیبانی بسیار محدود و ضعیفی دارن.</p>
+
+<p class="has-text-align-right" style="text-align:right;">بهترین کار استفاده OpenWrt بر روی روتره.</p>
+
+<p class="has-text-align-right" style="text-align:right;">OpenWrt یک سیستم عامل لینوکسی برای روترهاست که جانشین نرم‌افزار کارخانه میشه و امکانات فروانی به روتر شما اضافه می‌کنه.</p>
+
+<p class="has-text-align-right" style="text-align:right;">در واقع OpenWrt کمک می‌کنه از قابلیتهای سخت افزاری روترتون نهایت استفاده رو بکنید. یکی از امکانات خوب OpenWrt پشتیبانی عالی از انواع پروتوکلهای VPN است.</p>
+
+<p class="has-text-align-right" style="text-align:right;">اما نصب یا به اصطلاح فلش کردن OpenWrt روی روترها خیلی وقتها کار آسونی نیست و حتی یک اشتباه ممکنه باعث آسیب رسیدن به دستگاهتون بشه.</p>
+
+<p class="has-text-align-right" style="text-align:right;">پیشنهاد من استفاده از <a href="https://www.gl-inet.com/products/gl-mt300n-v2/" target="_blank" rel="noopener">روترهای GL.Inet</a> است که به صورت پیشفرض با OpenWrt عرضه میشن.</p>
+
+<p class="has-text-align-right" style="text-align:right;">این روترها، علاوه بر کلی امکانات عالی و هیجان انگیز، پشتیبانی کاملی از OpenVPN Wireguard Shadowsocks و &#8230; دارن</p>
+
+<figure class="wp-block-image size-large" style="direction:rtl;"><img data-attachment-id="1071" data-permalink="https://mehdi.wordpress.com/mango_1000x1000_2/" data-orig-file="https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg" data-orig-size="1000,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mango_1000x1000_2" data-image-description="" data-medium-file="https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg?w=300" data-large-file="https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg?w=809" class="wp-image-1071" src="https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg?w=1000" alt="" srcset="https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg 1000w, https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg?w=150 150w, https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg?w=300 300w, https://mehdi.files.wordpress.com/2020/08/mango_1000x1000_2.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p style="text-align:right;"> </p>                        </div>
+                    </div>
+                                                                            <div class="article fedorafans-com">
+                        <h2 class="article-title">
+                            <a href="https://fedorafans.com/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3%DB%B3-%D8%A8%D8%A7-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D8%B6-btrfs/" title="لینک به مطلب اصلی">لینوکس فدورا ۳۳ با فایل سیستم پیشفرض Btrfs</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: hos7ein                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598620381" class="date">28/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="http://fedorafans.com" class="source">طرفداران فدورا</a>                        </p>
+                        <div class="article-content">
+                            <div style="margin-bottom:20px;"><img width="1008" height="427" src="https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="butterfs" loading="lazy" srcset="https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_.jpg 1008w, https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_-300x127.jpg 300w, https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_-768x325.jpg 768w" sizes="(max-width: 1008px) 100vw, 1008px" /></div><p><a href="https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_.jpg"><img loading="lazy" class="aligncenter size-full wp-image-7068" src="https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_.jpg" alt="butterfs" width="1008" height="427" srcset="https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_.jpg 1008w, https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_-300x127.jpg 300w, https://fedorafans.com/wp-content/uploads/2020/08/butterfs-fedorafans.com_-768x325.jpg 768w" sizes="(max-width: 1008px) 100vw, 1008px" /></a>اطلاعات کاربران بر روی کامپیوتر بسیار مهم می باشند. چه این اطلاعات سورس کدهای یک پروژه برای یک انتشار باشند یا اینکه عکس های خانوادگی و یا موزیک های مورد علاقه شما باشند. به همین خاطر شما دوست دارید تا آنها در یک جای مطمئن و ایمن نگهداری شوند.</p>
+<p><span id="more-7066"></span></p>
+<p>تغییر <a href="https://fedorafans.com/btrfs-%D9%88-%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-17/">فایل سیستم</a> پیش فرض تغییری نیست که به طور اتفاقی انجام شود. پروژه فدورا برای اولین بار از زمان فدورا ۱۱ ، <a href="https://fedorafans.com/%D8%B9%D8%AF%D9%85-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D8%B6-%D8%A7%D8%B2-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-btrfs-%D8%AF%D8%B1-%D9%81%D8%AF/">فایل سیستم</a> پیش فرض را برای انواع نسخه های دسکتاپ (<a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D9%86%D8%B5%D8%A8-fedora-21-workstation/">Fedora Workstation</a> ، Fedora <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D9%86%D8%B5%D8%A8-linux-fedora-30-%D8%A8%D8%A7-%D9%85%DB%8C%D8%B2%DA%A9%D8%A7%D8%B1-kde/">KDE</a> و غیره) تغییر می دهد. <a href="https://fedorafans.com/%D8%B9%D8%AF%D9%85-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D8%B6-%D8%A7%D8%B2-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-btrfs-%D8%AF%D8%B1-%D9%81%D8%AF/">Btrfs</a> جایگزین <a href="https://fedorafans.com/%D8%B3%D8%A7%D8%AE%D8%AA-hard-disk-volume-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%81%D8%A7%DB%8C%D9%84-%D8%AF%D8%B1-%D9%84%DB%8C%D9%86/">ext4</a> به عنوان <a href="https://fedorafans.com/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AD%D9%84-%D9%81%D8%A7%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE/">فایل سیستم</a> پیش فرض در <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/">Fedora 33</a> خواهد شد.</p>
+<p>Btrfs یک فایل سیستم پایدار و بالغ است که دارای ویژگی های مدرن است که می توان به برخی از ویژگی های آن مانند یکپارچگی داده ها (data integrity) ، بهینه سازی های SSD ، <a href="https://fedorafans.com/%D9%81%D8%B9%D8%A7%D9%84-%DA%A9%D8%B1%D8%AF%D9%86-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-gzip-%D8%AF%D8%B1-%D9%88%D8%A8-%D8%B3%D8%B1%D9%88%D8%B1-apache/">فشرده سازی</a> (compression) ، cheap writable snapshots ، پشتیبانی از چندین دستگاه و موارد دیگر اشاره کرد.</p>
+<p>&nbsp;</p>
+<h4>آیا فایل سیستم Btrfs قابل اعتماد است؟</h4>
+<p><a href="https://fedorafans.com/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-anonymox-%D9%88-hola-better-internet-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D9%81%DB%8C%D8%B3-%D8%A8%D9%88%DA%A9/">فیس بوک</a> از Btrfs در میلیون ها دستگاه در production استفاده می کند. آنها پایداری آن را با ext4 و <a href="https://fedorafans.com/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C%D8%B4%D9%86-%D8%A8%D9%86%D8%AF%DB%8C-%D9%88-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%87%D8%A7%D8%B1%D8%AF-%D8%AF%DB%8C%D8%B3%DA%A9-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85-%D8%A7/">XFS</a> (دیگر فایل سیستم موجود در Fedora) مقایسه می کنند. در حقیقت ، آنها از Btrfs برای &#8220;بهبود&#8221; کیفیت <a href="https://fedorafans.com/%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C%D8%B4%D9%86-%D8%A8%D9%86%D8%AF%DB%8C-%D9%88-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%87%D8%A7%D8%B1%D8%AF-%D8%AF%DB%8C%D8%B3%DA%A9-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85-%D8%A7/">سخت افزار</a> <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-%D9%88-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-nfs-server/">ذخیره سازی</a> مصرف کننده استفاده می کنند. Btrfs مشکلات را قبل از خرابی <a href="https://fedorafans.com/%D8%B1%D9%88%D9%86%D9%85%D8%A7%D8%A6%DB%8C-%D8%A7%D8%B2-%D9%85%D8%AC%D9%88%D8%B2-%D8%B3%D8%AE%D8%AA-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A8%D9%86%DB%8C%D8%A7%D8%AF-%D9%86/">سخت افزار</a> تشخیص می دهد.</p>
+<p>همچنین <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-opensese-13-1/">SUSE</a> سالهاست که از Btrfs استفاده می کند ، از جمله <a href="https://fedorafans.com/opensuse-13-1-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF/">SUSE</a> Linux Enterprise Server (SLES). شما نمی توانید شرکتی را تصور كنید كه خدمات نرم افزاری به مشتری ارائه می دهد كه به آنها كاملاً اطمینان ندارد ، پشتیبانی كند.</p>
+<p>&nbsp;</p>
+<h4>گام بعدی چیست؟</h4>
+<p><span class="tlid-translation translation" lang="fa"><span title="">تغییر <a href="https://fedorafans.com/%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D8%AA%D8%B1%DB%8C%DA%A9%D8%B3-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-cmatrix/">کد</a> کامل است و از اوایل ماه ژوئیه (July) به عنوان <a href="https://fedorafans.com/%D8%AD%D9%84-%D9%85%D8%B4%DA%A9%D9%84-%D8%B9%D8%AF%D9%85-%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4-%D9%81%D8%A7%DB%8C%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%B1%D8%A7%DB%8C%D9%88%D8%B1-ntfs-%D8%AF%D8%B1/">فایل سیستم</a> پیش فرض در Rawhide قابل آزمایش است.</span> <span class="" title="">Btrfs از سال 2012 به صراحت در Fedora پشتیبانی می شود. انتظار می رود که این یک تغییر شفاف برای اکثر کاربران باشد ، با این حال هنوز هم قابل توجه است.</span> <span class="" title="">فدورا اطمینان خواهد داد که تجربه قابل اعتماد و قابل اطمینان را که کاربران فدورا انتظار دارند را داشته باشند.<br />
+</span></span></p>
+<p>با توجه به <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/">برنامه زمانبندی انتشار فدورا ۳۳</a>، انتظار می رود که نسخه ی بتا از <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/">فدورا ۳۳</a> در تاریخ ۱۵/۰۹/۲۰۲۰ برابر با ۱۳۹۹/۰۶/۲۵ منتشر شود و نسخه نهایی آن در تاریخ ۲۰/۱۰/۲۰۲۰ برابر با ۱۳۹۹/۰۷/۲۹ منتشر شود. جهت دیدن نتیاج آزمایشات <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/">فدورا ۳۳</a> می توانید به لینک پایین مراجعه کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://fedoraproject.org/wiki/Category:Fedora_33_Nightly_Test_Results</p>
+</blockquote>
+<p>&nbsp;</p><p>The post <a href="https://fedorafans.com/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3%DB%B3-%D8%A8%D8%A7-%D9%81%D8%A7%DB%8C%D9%84-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D8%B6-btrfs/" target="_blank">لینوکس فدورا ۳۳ با فایل سیستم پیشفرض Btrfs</a> first appeared on <a href="https://fedorafans.com/" target="_blank">طرفداران فدورا</a>.</p>                        </div>
+                    </div>
+                                                                            <div class="article fedorafans-com">
+                        <h2 class="article-title">
+                            <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/" title="لینک به مطلب اصلی">برنامه زمانبندی انتشار لینوکس فدورا ۳۳</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: hos7ein                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598536950" class="date">27/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="http://fedorafans.com" class="source">طرفداران فدورا</a>                        </p>
+                        <div class="article-content">
+                            <div style="margin-bottom:20px;"><img width="700" height="700" src="https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="fedora-linux" loading="lazy" srcset="https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_.jpg 700w, https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_-150x150.jpg 150w, https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_-300x300.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></div><p><a href="https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_.jpg"><img loading="lazy" class="aligncenter size-full wp-image-5878" src="https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_.jpg" alt="fedora-linux" width="700" height="700" srcset="https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_.jpg 700w, https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_-150x150.jpg 150w, https://fedorafans.com/wp-content/uploads/2018/08/fedora-linux-fedorafans.com_-300x300.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a>همانطور که می دانید آخرین نسخه از Fedora، نسخه ی<a href="https://fedorafans.com/%D9%86%D8%B3%D8%AE%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3%DB%B2-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF/"> فدورا ۳۲</a> می باشد و حالا نوبتی هم که باشد نوبت انتشار نسخه Linux Fedora 33 می باشد.<span id="more-7063"></span></p>
+<p>ولی صبر کنید! برای انتشار نسخه ی فدورا ۳۳ هنوز باید توی صف انتظار قرار بگیریم چرا که نسخه ی Beta از فدورا ۳۳ قرار است در تاریخ ۱۵/۰۹/۲۰۲۰ برابر با <span id="ctl00_cphMiddle_Sampa_Web_View_TimeUI_DateConvert00cphMiddle_3733_lblSecondDateNumeral" class="numeral">۱۳۹۹/۰۶/۲۵ منتشر شود و نسخه نهایی آن در تاریخ ۲۰/۱۰/۲۰۲۰ برابر با ۱۳۹۹/۰۷/۲۹ منتشر خواهد شد. اما اگر بچه های خوبی باشید می توانید به فرایند توسعه و آزمایش فدورا ۳۳ کمک کنید که برای اینکار می توانید به لینک پایین مراجعه کنید:</span></p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://fedoraproject.org/wiki/Category:Fedora_33_Nightly_Test_Results</p>
+</blockquote>
+<p>جهت دیدن برنامه کامل زمانبندی انتشار فدورا ۳۳ نیز می توانید به لینک پایین مراجعه کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://fedorapeople.org/groups/schedule/f-33/f-33-key-tasks.html</p>
+</blockquote>
+<p>پیش بسوی لینوکس فدورا ۳۳</p>
+<p>&nbsp;</p><p>The post <a href="https://fedorafans.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%85%D8%A7%D9%86%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%81%D8%AF%D9%88%D8%B1%D8%A7-%DB%B3-3/" target="_blank">برنامه زمانبندی انتشار لینوکس فدورا ۳۳</a> first appeared on <a href="https://fedorafans.com/" target="_blank">طرفداران فدورا</a>.</p>                        </div>
+                    </div>
+                                                                            <div class="article fedorafans-com">
+                        <h2 class="article-title">
+                            <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-terraform-%D8%A8%D8%B1-%D8%B1%D9%88%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3/" title="لینک به مطلب اصلی">آموزش نصب نرم افزار Terraform بر روی لینوکس</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: hos7ein                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598364534" class="date">25/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="http://fedorafans.com" class="source">طرفداران فدورا</a>                        </p>
+                        <div class="article-content">
+                            <div style="margin-bottom:20px;"><img width="1200" height="627" src="https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="tools" loading="lazy" srcset="https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_.jpg 1200w, https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_-300x157.jpg 300w, https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_-1024x535.jpg 1024w, https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_-768x401.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><p><a href="https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_.jpg"><img loading="lazy" class="aligncenter size-full wp-image-7060" src="https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_.jpg" alt="tools" width="1200" height="627" srcset="https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_.jpg 1200w, https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_-300x157.jpg 300w, https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_-1024x535.jpg 1024w, https://fedorafans.com/wp-content/uploads/2020/08/tools-fedorafans.com_-768x401.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>در این مطلب قصد داریم تا Terraform را بر روی سیستم عامل لینوکس نصب کنیم. البته گفتنی است که این نرم افزار قابلیت نصب بر روی دیگر سیستم عامل ها مانند Microsoft Windows, Solaris, macOS, FreeBSD و OpenBSD را دارد.</p>
+<p><span id="more-7056"></span></p>
+<p>Terraform یک نرم افزار <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-%D9%88-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-ansible/">Infrastructure as Code</a> می باشد که با استفاده از آن می توان محیط <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-%D9%88-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-aws-cli-%D8%AF%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3/">Cloud</a>, infrastructure و یا سرویس های خود را provision و یا مدیریت کرد.</p>
+<p>برای دیدن لیست کامل Terraform Provider ها می توانید به لینک پایین مراجعه کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://www.terraform.io/docs/providers/index.html</p>
+</blockquote>
+<p><a href="https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_.jpg"><img loading="lazy" class="aligncenter size-full wp-image-7061" src="https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_.jpg" alt="terraform" width="600" height="396" srcset="https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_.jpg 600w, https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_-300x198.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h4>نصب Terraform:</h4>
+<p>برای <a href="https://fedorafans.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-kafka-the-definitive-guide/">دانلود</a> آخرین نسخه ی Terraform همواره می توانید از قسمت releases در صفحه <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%B1%DB%8C%D8%B9-git-%D8%A8%D8%A7-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-cheat-sheet/">Github</a> پروژه ی Terraform و یا وب سایت رسمی آن اقدام کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://github.com/hashicorp/terraform/releases</p>
+</blockquote>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://www.terraform.io/downloads.html</p>
+</blockquote>
+<p>یا اینکه با استفاده از <a href="https://fedorafans.com/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-wget/">wget</a> و دستورهای زیر آخرین نسخه ی Terraform را <a href="https://fedorafans.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DA%A9%D8%AA%D8%A7%D8%A8-kubernetes-up-and-running/">دانلود</a> کنید:</p>
+<pre class="brush: php; title: ; notranslate">$ TER_VER=`curl -s https://api.github.com/repos/hashicorp/terraform/releases/latest | grep tag_name | cut -d: -f2 | tr -d \&quot;\,\v | awk '{$1=$1};1'`</pre>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">$ wget https://releases.hashicorp.com/terraform/${TER_VER}/terraform_${TER_VER}_linux_amd64.zip</p>
+</blockquote>
+<p>سپس با استفاده از <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D8%B3%D9%88%D8%B1%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3/">کاربر root</a> یا کاربری که توانایی sudo داشته باشد آن را از حالت <a href="https://fedorafans.com/%D9%81%D8%B9%D8%A7%D9%84-%DA%A9%D8%B1%D8%AF%D9%86-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-gzip-%D8%AF%D8%B1-%D9%88%D8%A8-%D8%B3%D8%B1%D9%88%D8%B1-apache/">zip</a> خارج کنید و در مسیر مشخص شده قرار دهید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;"># unzip terraform_${TER_VER}_linux_amd64.zip -d /usr/local/bin/</p>
+</blockquote>
+<p>اکنون جهت بررسی درست نصب شدن Terraform می توانید دستورهای زیر را اجرا کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">$ which terraform</p>
+</blockquote>
+<p>&nbsp;</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">$ terraform -v</p>
+</blockquote>
+<p>&nbsp;</p>
+<p>یک نمونه خروجی از دستورهای گفته شده را در تصویر پایین مشاهده می کنید:</p>
+<p><a href="https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_.png"><img loading="lazy" class="aligncenter size-full wp-image-7057" src="https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_.png" alt="terraform" width="415" height="91" srcset="https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_.png 415w, https://fedorafans.com/wp-content/uploads/2020/08/terraform-fedorafans.com_-300x66.png 300w" sizes="(max-width: 415px) 100vw, 415px" /></a></p>
+<p>برای بررسی کارکرد صحیح نرم افزار Terraform می توانید دستور زیر را اجرا کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">$ terraform</p>
+</blockquote>
+<p>یک نمونه خروجی از دستور گفته شده را در تصویر پایین مشاهده می کنید:</p>
+<p><a href="https://fedorafans.com/wp-content/uploads/2020/08/terraform-tool-fedorafans.com_.png"><img loading="lazy" class="aligncenter size-full wp-image-7058" src="https://fedorafans.com/wp-content/uploads/2020/08/terraform-tool-fedorafans.com_.png" alt="terraform-tool" width="760" height="725" srcset="https://fedorafans.com/wp-content/uploads/2020/08/terraform-tool-fedorafans.com_.png 760w, https://fedorafans.com/wp-content/uploads/2020/08/terraform-tool-fedorafans.com_-300x286.png 300w" sizes="(max-width: 760px) 100vw, 760px" /></a></p>
+<p>اکنون نرم افزار Terraform بر روی سیستم شما نصب شده است. برای شروع کار و یادگیری Terraform می توانید مستندات رسمی و Use Case های آن را مطالعه کنید:</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://learn.hashicorp.com/terraform</p>
+</blockquote>
+<p>&nbsp;</p>
+<blockquote>
+<p dir="ltr" style="text-align: left;">https://www.terraform.io/intro/use-cases.html</p>
+</blockquote>
+<p>&nbsp;</p>
+<p>امید است تا از این مطلب استفاده ی لازم را برده باشید.</p><p>The post <a href="https://fedorafans.com/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-terraform-%D8%A8%D8%B1-%D8%B1%D9%88%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3/" target="_blank">آموزش نصب نرم افزار Terraform بر روی لینوکس</a> first appeared on <a href="https://fedorafans.com/" target="_blank">طرفداران فدورا</a>.</p>                        </div>
+                    </div>
+                                                                            <div class="article jadi-net">
+                        <h2 class="article-title">
+                            <a href="http://feedproxy.google.com/~r/freekeyboard/~3/L8D0dj8k_LI/" title="لینک به مطلب اصلی">رفتگر دبیان و اصلاح خودکار حدود ۶۰ هزار مشکل ریز در پکیج‌ها</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: جادی                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1598196284" class="date">23/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="https://jadi.net" class="source">کیبرد آزاد</a>                        </p>
+                        <div class="article-content">
+                            <p><img src="http://jadi.net/wp-content/uploads/2020/08/roftgar.jpg" alt="" width="555" height="370" class="alignnone size-full wp-image-17548" srcset="https://jadi.net/wp-content/uploads/2020/08/roftgar.jpg 555w, https://jadi.net/wp-content/uploads/2020/08/roftgar-300x200.jpg 300w" sizes="(max-width: 555px) 100vw, 555px" /></p>
+<p><a href="https://wiki.debian.org/Janitor">رفتگر دبیان</a> یا همون دبیان جنیتور سیستم اتوماتیکی است برای حل مشکلات ریز در بسته‌هایی که برای مدیر بسته دبیان درست می شن؛ یعنی همون dpkg. این رفتگر به شکل خودکار پیشنهادهای اصلاح رو بررسی می‌کرد و اونهایی که برای نرم افزار هم واضح بودن رو قبول می‌کرد اما حالا یه قدم جلوتر رفته: شخصا مشکلات رو پیدا می‌کنه و بعدش هم اصلاح (:</p>
+<p>این سیستم برای بررسی اینکه باید روی کدوم پکیج‌ها کار کنه، اول خروجی <a href="https://lintian.debian.org/">lintian</a> رو می‌بینه و بسته‌هایی رو انتخاب می‌کنه که مشکلات بیشتر و حادتری دارن که حلش از عهده خودش برمیاد. وقتی پکیج انتخاب شد، اونو توی رپوزیتوری کلون می‌کنه و بعد <a href="https://manpages.debian.org/testing/lintian-brush/lintian-brush.1.en.html">لینتین براش</a> رو روش اجرا می‌کنه. این سیستم شامل یکسری اصلاح کننده است که می‌تونن برای مشکلات مختلفی نوشته و اجرا بشن.</p>
+<p>این اصلاح کننده ها یا فیکسرها، در واقع یکسری کد هستن که روی یک چک آوت تمیز بسته اجرا می‌شن و می‌تونن توش تغییر ایجاد کنن. اکثرا با شل یا پایتون نوشته شدن ولی چون فایل اجرایی هستن، می تونن هر چیزی باشن. اگر فیکسر با استتوس غیرصفر بیرون اومد، حساب می کنه که به مشکل خورده ولی اگر خروجی اش صفر بود، باید گزارشش رو روی خروجی بنویسه. به عنوان یک نمونه از فیکسر این رو ببینین:</p>
+<pre>
+#!/usr/bin/python3
+
+from debmutate.control import ControlEditor
+from lintian_brush.fixer import report_result, fixed_lintian_tag
+
+with ControlEditor() as updater:
+    for para in updater.paragraphs:
+        if para.get("Priority") == "extra":
+            para["Priority"] = "optional"
+            fixed_lintian_tag(
+                para, 'priority-extra-is-replaced-by-priority-optional')
+
+report_result("Change priority extra to priority optional.")</pre>
+<p>این سیستم تا حالا <a href="https://www.jelmer.uk/janitor-update-3.html">حدود ۶۰هزار اصلاح روی پکیج های دبیان زده</a> که به نوبه خودش اتفاق خیلی بزرگی است که قبلا با دست و در مقیاسی بسیار کمتر و کندتر و پر خطاتر انجام می‌شد. این نمونه‌ای است از اینکه چطوری می شه کدها رو اتوماتیک کرد و کارهای دستی رو به ماشین ها سپرد. نگرانی خاصی هم برای «از دست رفتن شغل برنامه نویسی» نیست چون همیشه با اینجور پیشرفت ها، افق های جدیدی باز می شن که ما هنوز توشون لازمه کار کنیم. در واقع در <em>اینجور موارد</em> همون اتفاقی می‌افته که با اختراع تراکتور افتاد. آدم ها بیکار نشدن بلکه کشاورزی راحتتر شدن و بقیه رفتن سراغ چیزهای دیگه (:</p>
+<p>البته بذارین دو نکته رو هم بگم:</p>
+<p>۱. این توضیح در مورد همه اختراعات نیست. واقعا شاید برسیم به جایی که ماشین ها کار کنن ما بخوابیم یا صاحب هامون بخوابن و ما تو خرابه ها دنبال غذا بگردیم (:</p>
+<p>۲. اصطلاح رفتگر اصطلاح قشنگی است. الان مد شده بعضی ها می گن «پاکبان»‌ چون ظاهرا احساس می کنن رفتگر توهین آمیزه. رفتگری هم یه شغله و لازم نیست اگر فکر می کنیم تحقیر کننده است، اسمش رو عوض کنیم که راحت بشیم. اگر فکر می کنین رفتگرها زندگی سختی دارن، بهتره آشغال کمتری روی زمین بریزین، بهشون خوراکی های باحال بدین، باهاشون سلام علیک کنین و &#8230; عوض کردن اسم چیزها مشکلی رو حل نمی کنه (: مگر اینکه بخوایم بگیم پاکبان شمول بیشتری از رفتگر داره (: که قبوله.</p>
+<img src="http://feeds.feedburner.com/~r/freekeyboard/~4/L8D0dj8k_LI" height="1" width="1" alt="" />                        </div>
+                    </div>
+                                                                            <div class="article jadi-net">
+                        <h2 class="article-title">
+                            <a href="http://feedproxy.google.com/~r/freekeyboard/~3/MR1pO84bSeo/" title="لینک به مطلب اصلی">فرصت استخدام دولوپر فرانت، بک، اپ، ری‌اکت،‌وردپرس و طراح رابط کاربری در پیکسولوبیت</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: جادی                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1597923066" class="date">20/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="https://jadi.net" class="source">کیبرد آزاد</a>                        </p>
+                        <div class="article-content">
+                            <p><img src="http://jadi.net/wp-content/uploads/2020/08/programmer.png" alt="" width="852" height="480" class="alignnone size-full wp-image-17543" srcset="https://jadi.net/wp-content/uploads/2020/08/programmer.png 852w, https://jadi.net/wp-content/uploads/2020/08/programmer-300x169.png 300w, https://jadi.net/wp-content/uploads/2020/08/programmer-768x433.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></p>
+<p><strong>پیکسلوبیت</strong> شرکتی کوچیک اما چابک و جسوره که از سال ٩۵ مشغول به کار کرده. هدف اصلی ما فعالیت در بازار تولید اپلیکیشنهای وب و موبایل هستش و در تلاشیم که با استفاده از تکنولوژیهای نوین تولیداتی بسیار کارا برای مشتریان خودمون داشته باشیم.</p>
+<p>برای تشکیل یک تیم قوی از دولوپرهای وب و موبایل از همه دوستانی که تخصصهای زیر رو دارن دعوت به همکاری میکنیم :</p>
+<h3>دولوپر ارشد فرانت اند | Senior Front-end Developer</h3>
+<p>• مهارت بالا در Html و CSS<br />
+• مهارت بالا در jQuery و JavaScript<br />
+•تجربه کاری با فریم‌ورکهای ریسپانسیو مثل Bootstrap<br />
+• مهارت بالا در حداقل یک فریم ورک جاوا اسکریپت (مهارت در ReactJs یا AngularJs مزیت محسوب میشه)<br />
+•درک کلی از SEO<br />
+• آشنایی کلی با PHP<br />
+• توانایی کار با ادوبی Photoshop و Illustrator<br />
+• آشنایی با LESS یا SASS مزیت محسوب میشه</p>
+<h3>دولوپر ارشد بک اند | Senior Back-end Developer</h3>
+<p>• مهارت بالا در PHP<br />
+• آشنایی با SQL<br />
+• مهارت کاری با Html و CSS<br />
+• آشنایی کلی با JavaScript<br />
+• مهارت و آشنایی با Laravel مزیت بالایی داره<br />
+• آشنایی با #C وتجربه کار با net. مزیت بالایی داره</p>
+<h3>دولوپر ارشد iOS ودولوپر ارشد SeniorAndroid&amp;iOSDeveloper | Android</h3>
+<p>• مهارت بالا در توسعه اپ موبایل شامل پروسه کلی از ابتدا تا انتشار در استور<br />
+• مهارت در دیباگ و اضافه کردن فانکشنالیتی های جدید به اپ های قدیمی</p>
+<h3>دولوپر ارشد Senior React Native Developer | React Native</h3>
+<p>• آشنایی با پلتفرمهای iOS و Android<br />
+• توانایی بالا در JavaScript و فریمورک React Native<br />
+• آشنایی با جاوا یا swift مزیت محسوب میشه</p>
+<h3>طراح رابط کاربری | UI Designer</h3>
+<p>• رزومه کاری قوی برای ارائه<br />
+• آشنایی سطحی با JavaScript ،html و CSS مزیت محسوب میشه</p>
+<h3>دولوپر وردپرس | WordPress Developer</h3>
+<p>• آشنایی بالا با ساختار WordPress<br />
+• آشنایی بالا Html و CSS<br />
+• آشنایی با JavaScript<br />
+• تجربه در ادیت و شخصی سازی تمپلیت‌های WordPress<br />
+• آشنایی کلی با SEO<br />
+• آشنایی بالا با PHP</p>
+<blockquote><p>در ضمن از دوستانی که تجربه کمتری نسبت به تخصص های بالا دارند و اصطلاحا Junior Developer هستند هم دعوت می‌شه که برای سمت دستیاری دولوپرهای ارشد رزومه خودشون رو بفرستن.</p></blockquote>
+<p>غیر از مهارت های تخصصی که برای هر موقعیت کاری لیست شده برای ما مهمه همکارانمون مهارتهای کلی زیر رو هم داشته باشند:</p>
+<p>• وقت شناس و دقیق<br />
+• طرز تفکر مثبت به چالش‌ها ( نگاه به اینکه کار نشد نداره)<br />
+• اشتیاق به یادگیری تکنولوژی‌های جدید در زمینه تخصصی خودشون که به تیم کمک کنه<br />
+• توانایی عمومی نوشتن و خواندن انگلیسی</p>
+<p>خوشحال بودن اعضا تیم برای ما خیلی مهمه به همین دلیل تمام توانمون رو خواهیم گذاشت که به دور از استرس و خوشحال به کارشون برسن. از مزیتهای کار با ما:</p>
+<p>• مرخصی با حقوق، پاداش، بیمه و دیگر مزایا طبق قوانین وزارت کار<br />
+• پرداخت هزینه اینترنت مربوط به کار<br />
+• دورکاری و اینکه برامون مهم نیست که ساکن تهران باشید اما مهمه که چندین بار در سال برای جلسات ضروری در تهران حاضر باشید</p>
+<h2>کجا رزومه بفرستم؟</h2>
+<p>لطفا رزومه خودتون رو ترجیحا در قالب PDF به HosseinKoofi@gmail.com ارسال کنید. حتما در عنوان ایمیل موقیعت شغلی که مد نظرتونه رو بنویسید.</p>
+<p>مطمئن بشید که شماره همراه و آدرس ایمیل شما به درستی در رزومتون قید شده باشه تا ما به راحتی بتونیم باهاتون تماس بگیریم و قرار مصاحبه آنلاین رو بزاریم.</p>
+<img src="http://feeds.feedburner.com/~r/freekeyboard/~4/MR1pO84bSeo" height="1" width="1" alt="" />                        </div>
+                    </div>
+                                                                            <div class="article pcworms-blog-ir">
+                        <h2 class="article-title">
+                            <a href="http://pcworms.blog.ir/post/%D8%B5%D9%81%D8%AD%D9%87-%D9%87%D8%AF%DB%8C%D9%87-%D8%A8%D8%AF%D9%87%DB%8C%D8%AF-%D9%88%D8%A8%D9%84%D8%A7%DA%AF" title="لینک به مطلب اصلی">صفحه «هدیه بدهید» وبلاگ</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: فاروق کریمی زاده                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1597829036" class="date">19/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="http://pcworms.blog.ir/" class="source">کرم های کامپیوتر</a>                        </p>
+                        <div class="article-content">
+                            <div style="direction:rtl"><p>الآن یک صفحه جدید به وبلاگ کرم‌های کامپیوتر به اسم «هدیه بدهید» اضافه شد که از طریق آن میتوانید به نویسنده‌ی مورد نظر خود هدیه بدهید.توجه کنید که هدیه‌ی شما مستقیما و کاملا به نویسنده منتقل می‌شود.</p>
+<h2 style="text-align: center;"><a href="http://pcworms.blog.ir/page/donate" target="_blank">صفحه «هدیه بدهید»</a></h2></div>                        </div>
+                    </div>
+                                                                            <div class="article jadi-net">
+                        <h2 class="article-title">
+                            <a href="http://feedproxy.google.com/~r/freekeyboard/~3/mTk1G-3C5KY/" title="لینک به مطلب اصلی">لینک های شاد دوشنبه‌های آخر ماه – مرداد ۱۳۹۹ – آدم‌های مستقل دست به کار شدن</a>
+                        </h2>
+                        <p class="article-info">
+                            
+                            <i class="fa fa-user" aria-hidden="true" style="color: #19B4CF !important;"
+			    > </i> نویسنده: جادی                         |  <i class="fa fa-clock-o" aria-hidden="true" style="color: #19B4CF !important;"> </i> زمان: <span id="post1597738147" class="date">18/08/2020</span>                            
+                            |
+                            
+                            <i class="fa fa-link" aria-hidden="true" style="color: #19B4CF !important;"> </i> منبع: <a href="https://jadi.net" class="source">کیبرد آزاد</a>                        </p>
+                        <div class="article-content">
+                            <p><img src="http://jadi.net/wp-content/uploads/2020/08/beirut.jpg" alt="" width="500" height="403" class="alignnone size-full wp-image-17536" srcset="https://jadi.net/wp-content/uploads/2020/08/beirut.jpg 500w, https://jadi.net/wp-content/uploads/2020/08/beirut-300x242.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<ul>
+<li>سه تا دانشجو هم این سیستم خرید دامنه و هاستینگ رو راه انداختن&#8230; سر زدن بهش شاید همه رو خوشحال کنه و شایدم <a href="http://host.helioco.ir/">این سرویس به درد شما هم بخوره</a></li>
+<li>با جیرا آشنا هستین دیگه؟ مجتبی که مدیر محصول است چند تا <a href="https://www.youtube.com/channel/UCwt7fSUCzQgpCNwSM59V9cQ">ویدئوی آموزشی اش رو اینجا گذاشته</a> که شاید به شما ایده‌های جالبتری هم در موردش بده.</li>
+<li>مصطفی هم یه برنامه <a href="https://github.com/mostafavtp/cs_projs/tree/master/DataOnImage">استگانوگرافی</a> نوشته به سی شارپ. برنامه‌ای برای مخفی کردن اطلاعات لابلای بیت‌های یک تصویر.</li>
+<li>برنامه <a href="https://github.com/amis-shokoohi/kapak">کپک هم لوگوی فانی داره هم آزاده</a>. برای رمزنگاری روی فایل‌ها. یه نگاه بکنین شایدم فرصتی شد برای مشارکت و یاد گرفتن.</li>
+<li>شهریار هم یک دوره توی یوتیوب داره که خوبه دیده بشه. دوره جنگوچنلز و سوکت نویسی اش . <a href="https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm">اینجا می تونین ببینین</a></li>
+<li>
+<ul>
+<li>محمد هم منابعی که برای <a href="https://github.com/mohammadrabetian/backend-developer-university">توسعه دهندگی بک اند</a> رو جمع کرده رو گذاشته اینجا.. لینکش هاش رو (:</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>حامد هم خواسته <a href="https://github.com/H4medRostami/HarvazOTP">این رپوزیتوری گیت هابش رو معرفی کنم</a> که یک اکستنش برای مدیریت پسوردهای یکبار مصرف است. شایدم من اشتباه فهمیدم (: ولی احتمالا خودتون کلیک کنین بهتر می فهمین (:</li>
+</ul>
+</li>
+<li>مهدی هم ی پروژه داره تحت عنوان آپارات-دی-ال. شبیه یوتیوب دی ال که در کامندلاین از یوتیوب دانلود می کنه ولی از آپارات با پایتون و <a href="https://github.com/thisismehdi/aparat-dl">نرم افزار آزاد</a></li>
+<li>مهدی (دیگه ای!) هم یک سی ام اس با جنگو نوشته. شامل دسته بندی و بخش توانایی ها و پادکست و &#8230; <a href="https://github.com/mavenium/PyEditorial">روی گیت هاب</a></li>
+<li>نمی دونم این <a href="https://github.com/Noah1001000/clean-code-persian">ترجمه آزاد از کتاب کد تمیز</a> رو معرفی کرده ام یا نه&#8230; ولی به هرحال منتظر مشارکت شماست (: شایدم خوندن بخش های ترجمه شده.</li>
+<li>علی هم یه پروژه داره  برای به اشتراک گذاشتن کد تایید در حین زمان توسعه. از <a href="https://gitlab.com/molaeiali/dev-code-bot">dev-code</a> می تونین دقیقتر ببینینش.</li>
+<li>علی و دوستانش هم دارن <a href="https://javascript.info/">javascript.info</a> رو ترجمه می‌کنن و اگر دوست دارین کمک کنین <a href="https://github.com/alithecodeguy/persian-javascript.info">رو گیت هاب منتظر شماست</a></li>
+</ul>
+<hr />
+<p>اگر شما هم دوست دارین پروزه تون معرفی بشه و اگر حس می کنین پروژه تون مرتبط است و آزاد و به نفع همه؛ خوبه بهم خبر بدین (:</p>
+<img src="http://feeds.feedburner.com/~r/freekeyboard/~4/mTk1G-3C5KY" height="1" width="1" alt="" />                        </div>
+                    </div>
+                                        </div>
+	<div id="sidebar" class="aside">
+    <div id="sidebar-people" class="section">
+        <h2>وبلاگ‌ها (35)</h2>
+        <ul>
+                        <li>
+                <a href="http://linuxmotto.ir/blog/?feed=rss2" title="Feed"><img src="postload.php?url=http%3A%2F%2Flinuxmotto.ir%2Fblog%2F%3Ffeed%3Drss2" alt="" height="12" width="12" /></a>
+                <a href="http://linuxmotto.ir/blog" title="Website">Linuxmotto</a>
+            </li>
+                        <li>
+                <a href="http://scriptics.ir/blog/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fscriptics.ir%2Fblog%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://scriptics.ir/blog" title="Website">Scriptics</a>
+            </li>
+                        <li>
+                <a href="http://use-r.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fuse-r.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://use-r.ir" title="Website">use R</a>
+            </li>
+                        <li>
+                <a href="http://sito.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fsito.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://sito.ir/feed/" title="Website">اخبار سیتو</a>
+            </li>
+                        <li>
+                <a href="http://feeds.feedburner.com/oshkoob " title="Feed"><img src="postload.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Foshkoob+" alt="" height="12" width="12" /></a>
+                <a href="http://www.melmi.ir/blog" title="Website">اشکوب</a>
+            </li>
+                        <li>
+                <a href="http://ubuntunews.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fubuntunews.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://ubuntunews.ir" title="Website">اوبونتو نیوز</a>
+            </li>
+                        <li>
+                <a href="https://barahouei.ir/rss" title="Feed"><img src="postload.php?url=https%3A%2F%2Fbarahouei.ir%2Frss" alt="" height="12" width="12" /></a>
+                <a href="https://barahouei.ir/" title="Website">براهوئی.آی آر</a>
+            </li>
+                        <li>
+                <a href="http://oslearn.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Foslearn.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://oslearn.ir" title="Website">تیم تخصصی او اس لرن</a>
+            </li>
+                        <li>
+                <a href="http://sae13.ir/feed" title="Feed"><img src="postload.php?url=http%3A%2F%2Fsae13.ir%2Ffeed" alt="" height="12" width="12" /></a>
+                <a href="http://sae13.ir" title="Website">درخانواده ای متدین متولدشد</a>
+            </li>
+                        <li>
+                <a href="http://salam-donya.com/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fsalam-donya.com%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://salam-donya.com" title="Website">سلام دنیا | رسانه تخصصی نرم‌افزارهای آزاد / متن‌باز</a>
+            </li>
+                        <li>
+                <a href="http://lidora.blog.ir/rss/" title="Feed"><img src="postload.php?url=http%3A%2F%2Flidora.blog.ir%2Frss%2F" alt="" height="12" width="12" /></a>
+                <a href="http://lidora.blog.ir/" title="Website">صفر و یک - برنامه نویسی - لینوکس</a>
+            </li>
+                        <li>
+                <a href="http://fedorafans.com/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Ffedorafans.com%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://fedorafans.com" title="Website">طرفداران فدورا</a>
+            </li>
+                        <li>
+                <a href="http://molaei.org/feed" title="Feed"><img src="postload.php?url=http%3A%2F%2Fmolaei.org%2Ffeed" alt="" height="12" width="12" /></a>
+                <a href=" http://molaei.org" title="Website">علی مولایی</a>
+            </li>
+                        <li>
+                <a href="http://linuxseason.com/feed" title="Feed"><img src="postload.php?url=http%3A%2F%2Flinuxseason.com%2Ffeed" alt="" height="12" width="12" /></a>
+                <a href="http://linuxseason.com" title="Website">لینوکس سیزن</a>
+            </li>
+                        <li>
+                <a href="http://rss.linuxvaman.ir/linuxvaman" title="Feed"><img src="postload.php?url=http%3A%2F%2Frss.linuxvaman.ir%2Flinuxvaman" alt="" height="12" width="12" /></a>
+                <a href="http://linuxvaman.ir" title="Website">لینوکس و من</a>
+            </li>
+                        <li>
+                <a href="http://tuxi.ir/category/linux/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Ftuxi.ir%2Fcategory%2Flinux%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="https://tuxi.ir" title="Website">لینوکس – تاکسی</a>
+            </li>
+                        <li>
+                <a href="http://mojtaba.in/category/linux/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fmojtaba.in%2Fcategory%2Flinux%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://mojtaba.in" title="Website">لینوکس – مجتبی درویشی</a>
+            </li>
+                        <li>
+                <a href="http://linuxihaa.ir/feed.xml" title="Feed"><img src="postload.php?url=http%3A%2F%2Flinuxihaa.ir%2Ffeed.xml" alt="" height="12" width="12" /></a>
+                <a href="http://linuxihaa.ir" title="Website">لینوکسی‌ها</a>
+            </li>
+                        <li>
+                <a href="https://fadavi.net/feed/" title="Feed"><img src="postload.php?url=https%3A%2F%2Ffadavi.net%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="https://fadavi.net" title="Website">محمد فدوی</a>
+            </li>
+                        <li>
+                <a href="https://linuxtrainer.ir/?feed=rss2" title="Feed"><img src="postload.php?url=https%3A%2F%2Flinuxtrainer.ir%2F%3Ffeed%3Drss2" alt="" height="12" width="12" /></a>
+                <a href="https://linuxtrainer.ir" title="Website">مربی لینوکس</a>
+            </li>
+                        <li>
+                <a href="http://barzideh.blog.ir/rss/category/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fbarzideh.blog.ir%2Frss%2Fcategory%2F%25D9%2584%25DB%258C%25D9%2586%25D9%2588%25DA%25A9%25D8%25B3%2F" alt="" height="12" width="12" /></a>
+                <a href="http://barzideh.blog.ir/" title="Website">میلاد برزیده</a>
+            </li>
+                        <li>
+                <a href="http://nerdnews.ir/stories.atom" title="Feed"><img src="postload.php?url=http%3A%2F%2Fnerdnews.ir%2Fstories.atom" alt="" height="12" width="12" /></a>
+                <a href="http://nerdnews.ir" title="Website">نردنیوز</a>
+            </li>
+                        <li>
+                <a href="http://soshaw.net/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fsoshaw.net%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://soshaw.net/" title="Website">نوشته های یک دوستدار گنو</a>
+            </li>
+                        <li>
+                <a href="http://hexlinux.ir/feed.xml" title="Feed"><img src="postload.php?url=http%3A%2F%2Fhexlinux.ir%2Ffeed.xml" alt="" height="12" width="12" /></a>
+                <a href="https://hexlinux.ir/" title="Website">هگز! - نوشته‌های لینوکسی ...</a>
+            </li>
+                        <li>
+                <a href="http://amirsamimi.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Famirsamimi.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://amirsamimi.ir" title="Website">وبسایت شخصی علیرضا امیرصمیمی</a>
+            </li>
+                        <li>
+                <a href="http://linuxeman.mihanblog.com/post/rss/" title="Feed"><img src="postload.php?url=http%3A%2F%2Flinuxeman.mihanblog.com%2Fpost%2Frss%2F" alt="" height="12" width="12" /></a>
+                <a href="http://linuxeman.mihanblog.com" title="Website">وبلاگ تخصصی لینوکس</a>
+            </li>
+                        <li>
+                <a href="http://moghaddas.blog.ir/rss/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fmoghaddas.blog.ir%2Frss%2F" alt="" height="12" width="12" /></a>
+                <a href="http://moghaddas.blog.ir/" title="Website">وبلاگ شخصی علی مقدس زاده</a>
+            </li>
+                        <li>
+                <a href="https://mehdi.wordpress.com/feed/" title="Feed"><img src="postload.php?url=https%3A%2F%2Fmehdi.wordpress.com%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="https://mehdi.wordpress.com" title="Website">وبلاگ مهدی</a>
+            </li>
+                        <li>
+                <a href="http://kaliuser.blog.ir/rss" title="Feed"><img src="postload.php?url=http%3A%2F%2Fkaliuser.blog.ir%2Frss" alt="" height="12" width="12" /></a>
+                <a href="http://kaliuser.blog.ir/" title="Website">کالی یوزر</a>
+            </li>
+                        <li>
+                <a href="http://pcworms.blog.ir/rss/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fpcworms.blog.ir%2Frss%2F" alt="" height="12" width="12" /></a>
+                <a href="http://pcworms.blog.ir/" title="Website">کرم های کامپیوتر</a>
+            </li>
+                        <li>
+                <a href="http://blog.aidinhut.com/feed.xml" title="Feed"><img src="postload.php?url=http%3A%2F%2Fblog.aidinhut.com%2Ffeed.xml" alt="" height="12" width="12" /></a>
+                <a href="http://www.aidinhut.com" title="Website">کلبه آیدین در دنیای مجازی</a>
+            </li>
+                        <li>
+                <a href="http://kiahamedi.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fkiahamedi.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://kiahamedi.ir" title="Website">کیا حامدی</a>
+            </li>
+                        <li>
+                <a href="http://feeds.feedburner.com/freekeyboard" title="Feed"><img src="postload.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Ffreekeyboard" alt="" height="12" width="12" /></a>
+                <a href="https://jadi.net" title="Website">کیبرد آزاد</a>
+            </li>
+                        <li>
+                <a href="http://gmozafarian.ir/feed/" title="Feed"><img src="postload.php?url=http%3A%2F%2Fgmozafarian.ir%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="http://gmozafarian.ir" title="Website">گشتاسب مظفریان – GMozafarian</a>
+            </li>
+                        <li>
+                <a href="https://yeenghelabi.wordpress.com/feed/" title="Feed"><img src="postload.php?url=https%3A%2F%2Fyeenghelabi.wordpress.com%2Ffeed%2F" alt="" height="12" width="12" /></a>
+                <a href="https://yeenghelabi.wordpress.com" title="Website">یه‌انقلابی</a>
+            </li>
+                    </ul>
+        <p>
+        <img src="custom/img/opml.png" alt="feed" height="12" width="12" /> <a href="custom/people.opml">دانلود فایل OPML</a>
+        </p>
+    </div>
+    
+    <div class="section">
+        <h2>RSS</h2>
+        <ul>
+            <li><img src="custom/img/feed.png" alt="feed" height="12" width="12" />&nbsp;<a href="http://feeds.feedburner.com/linuxvaman-planet">فید سیاره</a></li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>آرشیو</h2>
+        <ul>
+            <li><a href="?type=archive">نمایش همه ی عنوان‌ها</a></li>
+        </ul>
+    </div>
+</div>
+        
+                <div id="footer">
+	    <p>مطالب این سیاره تحت مجوز منابعشان قرار دارد. <a href="http://moonmoon.org/"> <i class="fa fa-moon-o" aria-hidden="true"></a></i> | <a href="http://feeds.feedburner.com/linuxvaman-planet" style="color: orange !important;"><i class="fa fa-rss" aria-hidden="true"></i></a> | <a href="http://linuxvaman.ir" style="color: white !important;"><i class="fa fa-home" aria-hidden="true"></i></a></p><a href="#" class="topbutton">	  
+
+<script>
+
+/*!
+ * topbutton
+ */
+jQuery(document).ready(function($){
+    var offset = 100;
+    var speed = 500;
+    var duration = 200;
+	   $(window).scroll(function(){
+            if ($(this).scrollTop() < offset) {
+			     $('.topbutton') .fadeOut(duration);
+            } else {
+			     $('.topbutton') .fadeIn(duration);
+            }
+        });
+	$('.topbutton').on('click', function(){
+		$('html, body').animate({scrollTop:0}, speed);
+		return false;
+		});
+});
+</script>
+  
+        </div>
+    </div>
+    
+    <script src="app/js/mm.js" type="text/javascript"></script>
+</body>
+<script src="http://file.mihanblog.com//public/user_data/user_files/269/805196/theme/jquery.js"></script> 
+<script>$(".loader-container").delay(2000).fadeOut(300);</script>
+</html>
+<!-- Load code: 0.022627830505371 --><!-- Load content: 21.407202005386 --><!-- Display: 0.024471998214722 --><!--array(0) {
+}
+-->
