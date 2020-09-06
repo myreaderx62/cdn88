@@ -1,0 +1,537 @@
+<!DOCTYPE html> 
+<html class="no-js" lang="ja">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://aozora-band.com/xmlrpc.php">
+	
+	<!--<title></title>-->
+	
+	<title>青空プロレスNEWS &#8211; 新日本プロレス･WWEなどの海外最新速報ニュースピックアップ</title>
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="青空プロレスNEWS &raquo; フィード" href="http://aozora-band.com/wpwn/feed" />
+<link rel="alternate" type="application/rss+xml" title="青空プロレスNEWS &raquo; コメントフィード" href="http://aozora-band.com/wpwn/comments/feed" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.12.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.12.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-57146846-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-57146846-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('set', 'anonymizeIp', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aozora-band.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://aozora-band.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://aozora-band.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://aozora-band.com/wp-content/themes/hueman/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://aozora-band.com/wp-content/themes/hueman/responsive.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://aozora-band.com/wp-content/themes/hueman/fonts/font-awesome.min.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"http:\/\/aozora-band.com\/wpwn","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aozora-band.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.12.2' id='monsterinsights-frontend-script-js'></script>
+<script type='text/javascript' src='http://aozora-band.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://aozora-band.com/wp-content/themes/hueman/js/jquery.flexslider.min.js?ver=5.5.1' id='flexslider-js'></script>
+<link rel="https://api.w.org/" href="http://aozora-band.com/wpwn/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aozora-band.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aozora-band.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<!--[if lt IE 9]>
+<script src="http://aozora-band.com/wp-content/themes/hueman/js/ie/html5.js"></script>
+<script src="http://aozora-band.com/wp-content/themes/hueman/js/ie/selectivizr.js"></script>
+<![endif]-->
+
+</head>
+
+
+<body class="home blog col-2cr full-width chrome">
+
+<!-- ADSENSE -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4337871636422191",
+    enable_page_level_ads: true
+  });
+</script>
+<!-- ADSENSE -->
+
+<div id="wrapper">
+
+	<header id="header">
+	
+				
+		<div class="container group">
+			<div class="container-inner">
+				
+				<div class="group pad">
+					<h1 class="site-title"><a href="http://aozora-band.com/wpwn/" rel="home">青空プロレスNEWS</a></h1>
+					<p class="site-description">新日本プロレス･WWEなどの海外最新速報ニュースピックアップ</p>									</div>
+				
+								
+			</div><!--/.container-inner-->
+		</div><!--/.container-->
+
+
+<!-- ADSENSE -->
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Response TOP -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4337871636422191"
+     data-ad-slot="1620649664"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<!-- ADSENSE -->
+
+
+	</header><!--/#header-->
+	
+	<div class="container" id="page">
+		<div class="container-inner">			
+			<div class="main">
+				<div class="main-inner group">
+<section class="content">
+
+	<div class="page-title pad group">
+
+			<h2>★: <span><a href="http://aozora-pwresult.com/archives/39981"><font color="#FF0000">9月5日AEW ALL OUTの結果はｺﾁﾗ</font></a><BR/ ><a href="http://aozora-pw.com/wpwn/"><font color="#0033CC">WWE関連の最新ニュースはこちら</font></a><BR/ ><a href="http://aozora-band.com/wpwn/archives/tag/%E4%B8%AD%E9%82%91%E7%9C%9F%E8%BC%94">中邑真輔</a>, <a href="http://aozora-band.com/wpwn/archives/tag/%E3%82%B1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%A1%E3%82%AC">ケニー･オメガ</a>, <a href="http://aozora-band.com/wpwn/archives/tag/内藤哲也">内藤哲也</a>, <a href="http://aozora-band.com/wpwn/archives/tag/g1クライマックス">G1クライマックス</a>, <a href="http://aozora-band.com/wpwn/archives/tag/newjapan_wrestlekingdom">1.4東京ドーム</a>, <a href="http://aozora-band.com/wpwn/archives/tag/レスリング･オブザーバー大賞">オブザーバー大賞</a></span></h2>
+
+	
+</div><!--/.page-title-->	
+	<div class="pad group">
+		
+		
+		
+				
+						<div class="post-list group">
+				<div class="post-row">					<article id="post-41663" class="group post-41663 post type-post status-publish format-image has-post-thumbnail hentry category-3 tag-716 tag-246 tag-421 post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41663" title="[新日本プロレス･速報] 9.6千葉･幕張 ニュージャパンロード 試合結果：Jr.タッグ王座決定リーグ戦、田口隆祐&#038;マスター･ワトvs.高橋ヒロム&#038;BUSHI、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/%e6%96%b0%e6%97%a5%e6%9c%ac%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9" rel="category tag">新日本プロレスニュース</a></p>
+			<p class="post-date">6 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41663" rel="bookmark" title="[新日本プロレス･速報] 9.6千葉･幕張 ニュージャパンロード 試合結果：Jr.タッグ王座決定リーグ戦、田口隆祐&#038;マスター･ワトvs.高橋ヒロム&#038;BUSHI、他">[新日本プロレス･速報] 9.6千葉･幕張 ニュージャパンロード 試合結果：Jr.タッグ王座決定リーグ戦、田口隆祐&#038;マスター･ワトvs.高橋ヒロム&#038;BUSHI、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-41660" class="group post-41660 post type-post status-publish format-image has-post-thumbnail hentry category-aew tag-aew-ppv tag-aew-results post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41660" title="[AEW･速報] 9.5 ALL OUT 試合結果：モクスリーvs.MJF、ジェリコvs.キャシディ、ケニー&#038;ハングマンvs.FTR、他 午前9:00頃〜">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2019/08/AEW_AllOut-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2019/08/AEW_AllOut-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2019/08/AEW_AllOut-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/aew" rel="category tag">AEW</a></p>
+			<p class="post-date">6 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41660" rel="bookmark" title="[AEW･速報] 9.5 ALL OUT 試合結果：モクスリーvs.MJF、ジェリコvs.キャシディ、ケニー&#038;ハングマンvs.FTR、他 午前9:00頃〜">[AEW･速報] 9.5 ALL OUT 試合結果：モクスリーvs.MJF、ジェリコvs.キャシディ、ケニー&#038;ハングマンvs.FTR、他 午前9:00頃〜</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-41634" class="group post-41634 post type-post status-publish format-image has-post-thumbnail hentry category-3 tag-iwgp tag-716 tag-246 tag-421 post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41634" title="[新日本プロレス･速報] 9.5千葉･幕張 ニュージャパンロード 試合結果：Jr.タッグ王座決定リーグ戦、高橋ヒロム&#038;BUSHIvs.石森太二＆外道、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/%e6%96%b0%e6%97%a5%e6%9c%ac%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9" rel="category tag">新日本プロレスニュース</a></p>
+			<p class="post-date">5 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41634" rel="bookmark" title="[新日本プロレス･速報] 9.5千葉･幕張 ニュージャパンロード 試合結果：Jr.タッグ王座決定リーグ戦、高橋ヒロム&#038;BUSHIvs.石森太二＆外道、他">[新日本プロレス･速報] 9.5千葉･幕張 ニュージャパンロード 試合結果：Jr.タッグ王座決定リーグ戦、高橋ヒロム&#038;BUSHIvs.石森太二＆外道、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-41636" class="group post-41636 post type-post status-publish format-image has-post-thumbnail hentry category-aew tag-aew-dark tag-aew-results post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41636" title="[AEW･動画] 9月4日公開のAEW DARK 試合結果：今週は全8試合、ダービー･アリンvs.ルーサー、コルト･カバナ登場、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2019/10/AEW_DARK-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2019/10/AEW_DARK-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2019/10/AEW_DARK-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/aew" rel="category tag">AEW</a></p>
+			<p class="post-date">5 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41636" rel="bookmark" title="[AEW･動画] 9月4日公開のAEW DARK 試合結果：今週は全8試合、ダービー･アリンvs.ルーサー、コルト･カバナ登場、他">[AEW･動画] 9月4日公開のAEW DARK 試合結果：今週は全8試合、ダービー･アリンvs.ルーサー、コルト･カバナ登場、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-41631" class="group post-41631 post type-post status-publish format-image has-post-thumbnail hentry category-3 tag-njpw-strong tag-421 post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41631" title="[新日本プロレス] 9.5 NJPWストロング 試合結果：ジェイ･ホワイトvs.フリップ･ゴードン、元ダレン･ヤング登場、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2020/08/NJPW_Storong-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2020/08/NJPW_Storong-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2020/08/NJPW_Storong-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/%e6%96%b0%e6%97%a5%e6%9c%ac%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9" rel="category tag">新日本プロレスニュース</a></p>
+			<p class="post-date">5 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41631" rel="bookmark" title="[新日本プロレス] 9.5 NJPWストロング 試合結果：ジェイ･ホワイトvs.フリップ･ゴードン、元ダレン･ヤング登場、他">[新日本プロレス] 9.5 NJPWストロング 試合結果：ジェイ･ホワイトvs.フリップ･ゴードン、元ダレン･ヤング登場、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-41627" class="group post-41627 post type-post status-publish format-image has-post-thumbnail hentry category-3 tag-682 tag-njpw-summer-struggle post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41627" title="[新日本プロレス] オブザーバーの8.29 サマーストラグル神宮球場大会 試合評価：EVILvs.内藤哲也、鷹木信悟vs.鈴木みのる、ヒロムvs.石森、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2020/07/SummerStruggle2020_03-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2020/07/SummerStruggle2020_03-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2020/07/SummerStruggle2020_03-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/%e6%96%b0%e6%97%a5%e6%9c%ac%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9" rel="category tag">新日本プロレスニュース</a></p>
+			<p class="post-date">4 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41627" rel="bookmark" title="[新日本プロレス] オブザーバーの8.29 サマーストラグル神宮球場大会 試合評価：EVILvs.内藤哲也、鷹木信悟vs.鈴木みのる、ヒロムvs.石森、他">[新日本プロレス] オブザーバーの8.29 サマーストラグル神宮球場大会 試合評価：EVILvs.内藤哲也、鷹木信悟vs.鈴木みのる、ヒロムvs.石森、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-41625" class="group post-41625 post type-post status-publish format-image has-post-thumbnail hentry category-aew category-wwe tag-aew-dynamite tag-new-rating tag-nxt post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41625" title="[AEW] 9月2日放送のAEWダイナマイトの視聴者数、AEWの視聴者数も好調">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2019/01/AEW-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2019/01/AEW-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2019/01/AEW-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/aew" rel="category tag">AEW</a> / <a href="http://aozora-band.com/wpwn/archives/category/wwe%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9" rel="category tag">WWEニュース</a></p>
+			<p class="post-date">4 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41625" rel="bookmark" title="[AEW] 9月2日放送のAEWダイナマイトの視聴者数、AEWの視聴者数も好調">[AEW] 9月2日放送のAEWダイナマイトの視聴者数、AEWの視聴者数も好調</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-41615" class="group post-41615 post type-post status-publish format-image has-post-thumbnail hentry category-3 tag-716 tag-421 post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41615" title="[新日本プロレス] 9.3埼玉 ニュージャパンロード 試合結果：内藤&#038;ヒロム&#038;BUSHIvs.EVIL&#038;石森&#038;外道、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2017/05/NJRoad_Logo01-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/%e6%96%b0%e6%97%a5%e6%9c%ac%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9" rel="category tag">新日本プロレスニュース</a></p>
+			<p class="post-date">3 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41615" rel="bookmark" title="[新日本プロレス] 9.3埼玉 ニュージャパンロード 試合結果：内藤&#038;ヒロム&#038;BUSHIvs.EVIL&#038;石森&#038;外道、他">[新日本プロレス] 9.3埼玉 ニュージャパンロード 試合結果：内藤&#038;ヒロム&#038;BUSHIvs.EVIL&#038;石森&#038;外道、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-41611" class="group post-41611 post type-post status-publish format-image has-post-thumbnail hentry category-aew tag-aew-all-out tag-aew-ppv tag-590 post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41611" title="[AEW] 9.5 ALL OUTの対戦カード：UPDATE、ヤングバックスvs.ジュラシック･エクスプレス、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2019/08/AEW_AllOut-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2019/08/AEW_AllOut-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2019/08/AEW_AllOut-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/aew" rel="category tag">AEW</a></p>
+			<p class="post-date">3 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41611" rel="bookmark" title="[AEW] 9.5 ALL OUTの対戦カード：UPDATE、ヤングバックスvs.ジュラシック･エクスプレス、他">[AEW] 9.5 ALL OUTの対戦カード：UPDATE、ヤングバックスvs.ジュラシック･エクスプレス、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-41607" class="group post-41607 post type-post status-publish format-image has-post-thumbnail hentry category-aew tag-aew-dynamite tag-aew-results post_format-post-format-image">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="http://aozora-band.com/wpwn/archives/41607" title="[AEW･速報] 9月2日放送のAEWダイナマイト 試合結果：クリス･ジェリコvs.ジョーイ･ジャネーラ、ジョン･モクスリーvs.MJFの弁護士、他">
+									<img width="520" height="245" src="http://aozora-band.com/wp-content/uploads/2019/10/AEW_Dynamite-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="http://aozora-band.com/wp-content/uploads/2019/10/AEW_Dynamite-520x245.jpg 520w, http://aozora-band.com/wp-content/uploads/2019/10/AEW_Dynamite-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="http://aozora-band.com/wpwn/archives/category/aew" rel="category tag">AEW</a></p>
+			<p class="post-date">3 9月, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="http://aozora-band.com/wpwn/archives/41607" rel="bookmark" title="[AEW･速報] 9月2日放送のAEWダイナマイト 試合結果：クリス･ジェリコvs.ジョーイ･ジャネーラ、ジョン･モクスリーvs.MJFの弁護士、他">[AEW･速報] 9月2日放送のAEWダイナマイト 試合結果：クリス･ジェリコvs.ジョーイ･ジャネーラ、ジョン･モクスリーvs.MJFの弁護士、他</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row"></div>			</div><!--/.post-list-->
+					
+			<nav class="pagination group">
+			<ul class="group">
+			<li class="prev left"></li>
+			<li class="next right"><a href="http://aozora-band.com/wpwn/page/2" >次ページへ &raquo;</a></li>
+		</ul>
+	</nav><!--/.pagination-->
+			
+				
+	</div><!--/.pad-->
+	
+</section><!--/.content-->
+
+
+	<div class="sidebar s1">
+		
+		<a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+		
+		<div class="sidebar-content">
+			
+						
+						
+						
+			<div id="text-6" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- レスポンス bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4337871636422191"
+     data-ad-slot="3608000864"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="search-3" class="widget widget_search"><form method="get" class="searchform themeform" action="http://aozora-band.com/wpwn/">
+	<div>
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter" />
+	</div>
+</form></div><div id="categories-4" class="widget widget_categories"><h3>カテゴリー</h3>
+			<ul>
+					<li class="cat-item cat-item-857"><a href="http://aozora-band.com/wpwn/archives/category/aew">AEW</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://aozora-band.com/wpwn/archives/category/roh">ROH</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://aozora-band.com/wpwn/archives/category/ufc-mma">UFC&amp;MMA</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://aozora-band.com/wpwn/archives/category/wwe%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9">WWEニュース</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://aozora-band.com/wpwn/archives/category/%e3%81%9d%e3%81%ae%e4%bb%96%e6%b5%b7%e5%a4%96%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9">その他/海外プロレス</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://aozora-band.com/wpwn/archives/category/%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%88">ドラゴンゲート</a>
+</li>
+	<li class="cat-item cat-item-644"><a href="http://aozora-band.com/wpwn/archives/category/ajpw-noah">全日本プロレス/ノア</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://aozora-band.com/wpwn/archives/category/%e6%96%b0%e6%97%a5%e6%9c%ac%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9">新日本プロレスニュース</a>
+</li>
+			</ul>
+
+			</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x600 DEEP -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-4337871636422191"
+     data-ad-slot="2895041269"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<BR/ ><BR/ >
+<div align="center"><a href="https://www.amazon.co.jp/dp/B06XK3VDBL/ref=as_li_ss_il?ie=UTF8&qid=1494780399&sr=8-6&keywords=%E6%96%B0%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9&linkCode=li3&tag=aozora_pw-22&linkId=d0483072ec85f76a9945e5b0abcaeb36" target="_blank" rel="noopener noreferrer"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XK3VDBL&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=aozora_pw-22" ><BR/ >[DVD] レッスルキングダム11 in 東京ドーム</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=aozora_pw-22&l=li3&o=9&a=B06XK3VDBL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+<BR/ ><BR/ >
+<div align="center"><a href="https://www.amazon.co.jp/%E6%96%B0%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0-060814-M-%E3%83%AD%E3%82%B9-%E3%82%A4%E3%83%B3%E3%82%B4%E3%83%99%E3%83%AB%E3%83%8A%E3%83%96%E3%83%AC%E3%82%B9-%E3%83%87-%E3%83%8F%E3%83%9D%E3%83%B3-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97/dp/B01FXG2AWQ/ref=as_li_ss_il?s=hobby&ie=UTF8&qid=1494781364&sr=1-1&linkCode=li3&tag=aozora_pw-22&linkId=eae772c3a42bf8d0161b83e8aedaa679" target="_blank" rel="noopener noreferrer"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FXG2AWQ&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=aozora_pw-22" ><BR/ >[帽子] ロス･インゴベルナブレス･デ･ハポン</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=aozora_pw-22&l=li3&o=9&a=B01FXG2AWQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+<BR/ ><BR/ >
+<div align="center"><a href="http://www.amazon.co.jp/gp/product/B01AHJA4UE/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B01AHJA4UE&linkCode=as2&tag=aozora_pw-22" target="_blank" rel="noopener noreferrer"><img src="http://aozora-band.com/images/Goods/BulletClub_DVD02.jpg" alt="バレットクラブ DVD" width="200" /><BR/ >バレットクラブ 【DVD】※送料無料</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=aozora_pw-22&l=as2&o=9&a=B01AHJA4UE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+<BR/ ><BR/ >
+<div align="center"><a href="http://www.amazon.co.jp/gp/product/B0111X1RVK/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B0111X1RVK&linkCode=as2&tag=aozora_pw-22" target="_blank" rel="noopener noreferrer"><img src="http://aozora-band.com/wp-content/uploads/2014/11/CHAOS_Gakuen03.jpg" alt="矢野通プロデュース CHAOS学園" width="200" height="200" class="alignnone size-full wp-image-7358" /><BR/ >[DVD] 矢野通プロデュース 第4弾<BR/ >【CHAOS学園】※送料無料</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=aozora_pw-22&l=as2&o=9&a=B0111X1RVK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+<BR/ ><BR/ >
+<div align="center"><a href="http://www.amazon.co.jp/gp/product/B0148DQ3IM/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B0148DQ3IM&linkCode=as2&tag=aozora_pw-22" target="_blank" rel="noopener noreferrer"><img border="0" src="http://aozora-band.com/wp-content/uploads/2014/11/G1_Climax25_DVD_s.jpg"><BR/ >新日本プロレスDVD<BR/ >G1クライマックス25※送料無料</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=aozora_pw-22&l=as2&o=9&a=B0148DQ3IM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+<BR/ ><BR/ >
+<img src="http://aozora-band.com/img/rss_001.png" alt="RSS">
+<a href="http://aozora-band.com/?feed"><abbr title="Really Simple Syndication">RSS</abbr>はこちら</a></div>
+		</div>			
+		</div><!--/.sidebar-content-->
+		
+	</div><!--/.sidebar-->
+
+		
+
+				</div><!--/.main-inner-->
+			</div><!--/.main-->			
+		</div><!--/.container-inner-->
+	</div><!--/.container-->
+
+	<footer id="footer">
+		
+				
+				
+				
+		<section class="container" id="footer-bottom">
+			<div class="container-inner">
+				
+				<a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+				
+				<div class="pad group">
+					
+					<div class="grid one-half">
+						
+												
+						<div id="copyright">
+															<p>青空プロレスNEWS &copy; 2020. All Rights Reserved.</p>
+													</div><!--/#copyright-->
+						
+												<div id="credit">
+							<p>Powered by <a href="http://wordpress.org" rel="nofollow">WordPress</a>. Theme by <a href="http://alxmedia.se" rel="nofollow">Alx</a>.</p>
+						</div><!--/#credit-->
+												
+					</div>
+					
+					<div class="grid one-half last">	
+						<ul class="social-links"><li><a rel="nofollow" class="social-tooltip" title="青プNEWSツイッター" href="https://twitter.com/WPW_News" target="Array"><i class="fa fa-twitter" ></i></a></li><li><a rel="nofollow" class="social-tooltip" title="青プNEWSフェイスブック" href="https://www.facebook.com/AozoraPWNnews/" target="Array"><i class="fa fa-facebook" ></i></a></li></ul>					</div>
+				
+				</div><!--/.pad-->
+				
+			</div><!--/.container-inner-->
+		</section><!--/.container-->
+		
+	</footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+<script type='text/javascript' src='http://aozora-band.com/wp-content/themes/hueman/js/jquery.jplayer.min.js?ver=5.5.1' id='jplayer-js'></script>
+<script type='text/javascript' src='http://aozora-band.com/wp-content/themes/hueman/js/scripts.js?ver=5.5.1' id='scripts-js'></script>
+<script type='text/javascript' src='http://aozora-band.com/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<!--[if lt IE 9]>
+<script src="http://aozora-band.com/wp-content/themes/hueman/js/ie/respond.js"></script>
+<![endif]-->
+</body>
+</html>
